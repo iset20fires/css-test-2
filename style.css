@@ -12,10 +12,14 @@
 }
 
 body {
-    background-image: url(Masc\ Eyes.jpeg);
+    background-image: url(download.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
+}
+
+#id1 {
+    color: grey;
 }
 
 #box2 {
